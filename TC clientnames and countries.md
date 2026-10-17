@@ -2,9 +2,9 @@ TC01 — Create All Clients via GET Request
 
 ID: TC01
 
-Title: To create all clients by the GET request
+Title: Display all clients information by the GET request
 
-Description: To create clients with mandatory fields.
+Description: To get clients with mandatory fields.
 
 Pre-condition: Authorize with Bearer Token.
 
