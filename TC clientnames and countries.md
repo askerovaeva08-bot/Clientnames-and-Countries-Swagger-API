@@ -1,4 +1,5 @@
 TC01 — Create All Clients via GET Request
+
 ID: TC01
 
 Title: To create all clients by the GET request
@@ -11,7 +12,6 @@ Steps
 Send a GET request to the Swagger API endpoint.
 Include the Bearer Token for authorization.
 Data
-
 [
   {
     "age": 0,
@@ -21,5 +21,7 @@ Data
     "surname": "string"
   }
 ]
+
 Expected Result
+
 Response code is 200 OK.
